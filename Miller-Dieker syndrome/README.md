@@ -1,8 +1,8 @@
 # Putative Disease Genes Identification and Drugs Repurposing for Miller-Dieker syndrome
-## Salvatore Falciglia, Gerardo Loffredo
-### Master’s degree: Artificial Intelligence and Robotics
-### Course of Data Science
-### a.y. 2022/2023
+**Salvatore Falciglia, Gerardo Loffredo**
+**Master’s degree: Artificial Intelligence and Robotics**
+**Course of Data Science**
+**a.y. 2022/2023**
 
 #### ABSTRACT
 
