@@ -22,51 +22,51 @@ This study wants to apply heuristic research, within the Human Interactome (HI),
 │   ├── __init__.py
 │   └── backbone.py
 ├── cytoscape_diffusion_algorithm
-|   ├── diffusion_time_0.01
-|   │   ├── diff_0.csv
-|   │   ├── diff_1.csv
-|   │   ├── diff_2.csv
-|   │   ├── diff_3.csv
-|   │   └── diff_4.csv
-|   ├── diffusion_time_0.002
-|   │   ├── diff_0.csv
-|   │   ├── diff_1.csv
-|   │   ├── diff_2.csv
-|   │   ├── diff_3.csv
-|   │   └── diff_4.csv
-|   ├── diffusion_time_0.005
-|   │   ├── diff_0.csv
-|   │   ├── diff_1.csv
-|   │   ├── diff_2.csv
-|   │   ├── diff_3.csv
-|   │   └── diff_4.csv
-|   ├── disease_genes_train_0.txt
-|   ├── disease_genes_train_1.txt
-|   ├── disease_genes_train_2.txt
-|   ├── disease_genes_train_3.txt
-|   └── disease_genes_train_4.txt
+│   ├── diffusion_time_0.01
+│   │   ├── diff_0.csv
+│   │   ├── diff_1.csv
+│   │   ├── diff_2.csv
+│   │   ├── diff_3.csv
+│   │   └── diff_4.csv
+│   ├── diffusion_time_0.002
+│   │   ├── diff_0.csv
+│   │   ├── diff_1.csv
+│   │   ├── diff_2.csv
+│   │   ├── diff_3.csv
+│   │   └── diff_4.csv
+│   ├── diffusion_time_0.005
+│   │   ├── diff_0.csv
+│   │   ├── diff_1.csv
+│   │   ├── diff_2.csv
+│   │   ├── diff_3.csv
+│   │   └── diff_4.csv
+│   ├── disease_genes_train_0.txt
+│   ├── disease_genes_train_1.txt
+│   ├── disease_genes_train_2.txt
+│   ├── disease_genes_train_3.txt
+│   └── disease_genes_train_4.txt
 ├── data
-|   ├── Biogrid_4.4.216.txt
-|   ├── C0265219_disease_genes.txt
-|   ├── C0265219_disease_genes_DiaBLE.txt
-|   ├── C0265219_predicted_genes_directlyconnectedto_PAFAH1B1_YWHAE.txt
-|   ├── C0265219_predicted_genes_MCL.txt
-|   ├── C0265219_predicted_genes_MCL.txt
-|   ├── diseaseLCC_measures.csv
-|   ├── diseaseLCC_with_directlyconnectedtoPandY.txt
-|   ├── diseaseLCC_with_directlyconnectedtoPandY_measures.csv
-|   ├── diseaseLCCpluspredicted_edgetable.txt
-|   ├── diseaseLCCpluspredicted_edgetable.txt
-|   └── drugs_associatedto_predicted_genes_directlyconnectedto_PAFAH1B1_YWHAE.txt
+│   ├── Biogrid_4.4.216.txt
+│   ├── C0265219_disease_genes.txt
+│   ├── C0265219_disease_genes_DiaBLE.txt
+│   ├── C0265219_predicted_genes_directlyconnectedto_PAFAH1B1_YWHAE.txt
+│   ├── C0265219_predicted_genes_MCL.txt
+│   ├── C0265219_predicted_genes_MCL.txt
+│   ├── diseaseLCC_measures.csv
+│   ├── diseaseLCC_with_directlyconnectedtoPandY.txt
+│   ├── diseaseLCC_with_directlyconnectedtoPandY_measures.csv
+│   ├── diseaseLCCpluspredicted_edgetable.txt
+│   ├── diseaseLCCpluspredicted_edgetable.txt
+│   └── drugs_associatedto_predicted_genes_directlyconnectedto_PAFAH1B1_YWHAE.txt
 ├── images    
-|   ├── fig1_HI.png
-|   ├── fig2_LCC.png
-|   ├── fig3_diseaseLCC.png
-|   └── fig4_new_diseaseLCC.png
+│   ├── fig1_HI.png
+│   ├── fig2_LCC.png
+│   ├── fig3_diseaseLCC.png
+│   └── fig4_new_diseaseLCC.png
 ├── outputs    
-|   ├── pkl_datasets
-|   │   └── C0265219.pkl
-|   └── results_table
+│   ├── pkl_datasets
+│   │   └── C0265219.pkl
+│   └── results_table
 └── notebook_networkmedicineanalysis.ipynb
 ```
 
