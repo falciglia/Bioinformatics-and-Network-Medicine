@@ -81,4 +81,4 @@ Cardoso C. et al. Refinement of a 400-kb Critical Region Allows Genotypic Differ
 
 Miller-Dieker syndrome. 2009. MedlinePlus, National Library of Medicine.
 
-*Code inspired from Alessandro Quattrociocchi and Tansel Simsek, Bioinformatics and Network Medicine a.y. 2021-2022.
+*Code inspired from Alessandro Quattrociocchi and Tansel Simsek GitHub repository, Bioinformatics and Network Medicine a.y. 2021-2022.
