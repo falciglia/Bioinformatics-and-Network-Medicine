@@ -5,7 +5,7 @@
 La Sapienza University of Rome<br />
 ARTIFICIAL INTELLIGENDE AND ROBOTICS<b>  <br />
 Course of Data Science<b>  <br />
-Salvatore Falciglia, Gerardo Loffredo<b> <br />
+Salvatore Falciglia, Gerardo Loffredo, Olga Almudena Martinez<b> <br />
 </p>
 
 
